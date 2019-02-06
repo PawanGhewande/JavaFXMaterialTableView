@@ -40,7 +40,7 @@
     -fx-pref-height:50px;
 }
 .table-view  .table-column{
-    -fx-padding:18px;
+    -fx-padding: 18 0 0 10;
     -fx-border-width: 0px 0px 0px 0px ;
 }
 
